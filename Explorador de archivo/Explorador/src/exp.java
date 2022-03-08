@@ -56,6 +56,7 @@ public class exp {
 	/**
 	 * Initialize the contents of the frame.
 	 */
+	
 	JFileChooser fc = new JFileChooser();
 	private JTextField textField;
 	private FileNameExtensionFilter fitro;
